@@ -1,6 +1,4 @@
-# picbed
-图床管理
-
+# picbed（图床管理）
 
 
 ```bash
